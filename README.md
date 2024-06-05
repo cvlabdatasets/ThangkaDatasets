@@ -10,7 +10,7 @@
 备用下载链接Kaggle：[ThangkaDatasets_5081](https://storage.googleapis.com/kaggle-data-sets/5153326/8611264/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20240605%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240605T091921Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=68d69e860efa1daccdbe768207466ebb55c055cf64bc843ab9b5eafb44e8e17464dee140dbd7aa0f1a10daf5eb1247df49e8a6cefc68c7ceadd95afa2fe9b28cd630c6efe44d5c144385f654ba7bf7a49051a35ba1ab87b3018238456f4fdc06be2924dd84ee679d7d9583ff28b33a2a500085c58185517ac150b04cece6fb2c5e49055612be5e56bc1e4e4f92fd9d77551c1571fe57ee12bde851c3378b92a78822e56f887a46917862d6c3424634feca0ac2a5d157e5207b0f94ff5145402998c0f5bc6a5682222a8e5be15b56817cf21a6ab8a436e2aa60feab9f99f8b113c5dfd1e616ac3c496139f78c9b03cd6cb3fb5b0aeaac800aad217e1d2587710c) 
 
 
-### 2、适合图像超分辨率的唐卡数据集
+### 2、适合图像超分辨率重建的唐卡数据集
 数据集贡献者：季利琪、陈鑫
 <br>
 `ThangkaDatasets_82688`包含了82,688个图像数据对。其中高清图像分辨率为512 * 512，对应的四倍下采样低清图像分辨率为128 * 128。
