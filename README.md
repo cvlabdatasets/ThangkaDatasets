@@ -15,7 +15,9 @@
 <br>
 `ThangkaDatasets_82688`包含了82,688个图像数据对。其中高清图像分辨率为512 * 512，对应的四倍下采样低清图像分辨率为128 * 128。
 <br>
-下载链接IEEE：[ThangkaDatasets_82688](https://ieee-dataport.s3.amazonaws.com/data/1239617/ThangkaDatasets_82688.zip?response-content-disposition=attachment%3B%20filename%3D%22ThangkaDatasets_82688.zip%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJOHYI4KJCE6Q7MIQ%2F20240606%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240606T014755Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=3600&X-Amz-Signature=69515eb006e51b2e3848fdd0eb2fec3612adc102cd4287f5051ac30542fceded) 大小：42GB
+下载链接Kaggle：[ThangkaDatasets_82688](https://storage.googleapis.com/kaggle-data-sets/5161139/8621738/compressed/ThangkaDatasets_82688.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20240606%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240606T141919Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=00eb9615493f9a4411219af09111e8c61580a30f20176e49a404619e03b88d33e0d4e8a062ca2cda5b1ac5577cb0e53481e10509e2e2479434106c18236efff2f408dcace9ecea89889f658389716a580c73a4dc055739329e5ffc0bc7d4b9ce48f69115dbe2c0ff7a32b28f71540f86070810779ccf435b76baf16b0ca0da0cb932da35e28116b1f947bc766d2de1f8475e15baeb921ca1b462f7348a32d638a52c208774138ea6d55252c2ef26d6c23c5cde9797e127f44ffc6763aa82f3844c3eb929f5768cef8df40a4e7014b0e762871ad50d1ceb84f047c3a0a54e07132574e778e81956c74bc180337958c8249369da0ea68892be55f739c11451e01e) 大小：42GB
+<br>
+备用下载链接IEEE：[ThangkaDatasets_82688](https://ieee-dataport.s3.amazonaws.com/data/1239617/ThangkaDatasets_82688.zip?response-content-disposition=attachment%3B%20filename%3D%22ThangkaDatasets_82688.zip%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJOHYI4KJCE6Q7MIQ%2F20240606%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240606T014755Z&X-Amz-SignedHeaders=Host&X-Amz-Expires=3600&X-Amz-Signature=69515eb006e51b2e3848fdd0eb2fec3612adc102cd4287f5051ac30542fceded)
 <br>
 <br>
 `ThangkaDatasets_8868`包含了8,868个图像数据对。其中高清图像分辨率为512 * 512，对应的四倍下采样和二倍下采样低清图像分辨率为128 * 128、256 * 256。
