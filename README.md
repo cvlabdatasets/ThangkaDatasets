@@ -25,7 +25,7 @@
 
 
 <hr>
-本数据集版本归西北民族大学计算机视觉实验室所有，仅限用于学术研究，禁止用于商业目的。如在公开发表的论文或工作中使用了数据集，请引用相应的论文。(This dataset version is owned by the Computer Vision Laboratory of Northwest Minzu University, and is limited to academic research use only, commercial use is prohibited. If the dataset is used in a publicly published paper or work, please cite the corresponding paper.)
+**本数据集版本归西北民族大学计算机视觉实验室所有，仅限用于学术研究，禁止用于商业目的。如在公开发表的论文或工作中使用了数据集，请引用相应的论文。(This dataset version is owned by the Computer Vision Laboratory of Northwest Minzu University, and is limited to academic research use only, commercial use is prohibited. If the dataset is used in a publicly published paper or work, please cite the corresponding paper.)**
 
 
 
