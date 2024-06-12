@@ -7,7 +7,11 @@
 <br>
 下载链接Kaggle：[ThangkaDataset_Universal_5081](https://storage.googleapis.com/kaggle-data-sets/5153326/8611264/compressed/ThangkaDatasets_5081.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20240612%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240612T105816Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=235a45b51e16198ea94a44b1d2e4b1f29e5405dfcc6f87628853af749b2b40b4af9765696dfc484c0a6e0241899067c8147348a2fcd8a7c73db7a705522e74068690c2b02771991b6ca8701d76e7ef58a72496fbb190c3e161afb7b363733536776f382fa830b7275914a2e1b13dcdd710168b75b02a01edce9cf02512e68f913c3fc93de135a73a92d1c80495b3c0301d7a41f17cc65868f06bbf5aecd0dc224df1fb0a14db562cd8505da6874a28f0bbdf54fa7e2a293c134d2290a189facb1a0b5577671ce13da4bd86f67adeb348411f1e24d2e6eb16efec7a55e7de0e0857009aba9102c2b8e25e1e743a08368f43e229e9d68f679e22e97f6a14daf2c7) 大小：2.5GB
 <br>
-
+#### Published papers:
+1、Li H, Fang J, Jia Y, et al. Thangka Sketch Colorization Based on Multi-Level Adaptive-Instance-Normalized Color Fusion and Skip Connection Attention[J]. Electronics, 2023, 12(7): 1745.
+2、Li H, Wang NY, Fang J, Jia Y. Ji, L., Chen, X. Anime Sketch Coloring Based on Self-Attention Gate and Progressive PatchGAN(CI// The 6th Chinese Conference on Pattern Recognition and Computer Vision PRCV2023
+3、Fang J, Li H, Jia Y, et al. Thangka mural style transfer based on progressive style-attentional network and multi-level loss function[J]. Journal of Electronic Imaging, 2023, 32(4): 043007-043007.
+4、Y. Jia, H. Li, J. Fang, X. Chen, L. Ji, N. Wang. Image Inpainting of Thangka Murals Using Edge-Assisted Feature Fusion and Self Attention Based Local Refine Network[J]. IEEE Access, 2023, 11: 84360-84370.
 
 
 ### 2、适合图像超分辨率重建的唐卡数据集(A Thangka dataset suitable for image super-resolution reconstruction.)
