@@ -1,7 +1,7 @@
 # ThangkaDatasets
 
-### 1、适合图像风格迁移、图像上色和图像修复的唐卡数据集(A Thangka dataset suitable for image style transfer, image colorization, and image restoration.)
-数据集贡献者：李航、方杰、贾莹(Dataset contributors: Hang Li, Jie Fang, Ying Jia.)
+### 1、适合图像风格迁移、图像上色和图像修复的唐卡数据集 (A Thangka dataset suitable for image style transfer, image colorization, and image restoration.)
+数据集贡献者：李航、方杰、贾莹 (Dataset contributors: Hang Li, Jie Fang, Ying Jia.)
 <br>
 `ThangkaDataset_Universal_5081`包含了5,081张唐卡图像。分辨率为512 * 512。(ThangkaDataset_Universal_5081 contains 5,081 Thangka images. The resolution is 512 * 512.)
 <br>
@@ -17,8 +17,8 @@
 4、Y. Jia, H. Li, J. Fang, X. Chen, L. Ji, N. Wang. Image Inpainting of Thangka Murals Using Edge-Assisted Feature Fusion and Self Attention Based Local Refine Network[J]. IEEE Access, 2023, 11: 84360-84370.
 
 
-### 2、适合图像超分辨率重建的唐卡数据集(A Thangka dataset suitable for image super-resolution reconstruction.)
-数据集贡献者：季利琪、陈鑫(Dataset contributors: Liqi Ji, Xin Chen.)
+### 2、适合图像超分辨率重建的唐卡数据集 (A Thangka dataset suitable for image super-resolution reconstruction.)
+数据集贡献者：季利琪、陈鑫 (Dataset contributors: Liqi Ji, Xin Chen.)
 <br>
 `ThangkaDatasets_82688`包含了82,688个图像数据对。其中高清图像分辨率为512 * 512，对应的四倍下采样低清图像分辨率为128 * 128。(ThangkaDatasets_82688 contains 82,688 pairs of image data. Among them, the high-resolution images have a resolution of 512 * 512, and the corresponding 4x downsampled low-resolution images have a resolution of 128 * 128.)
 <br>
