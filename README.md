@@ -9,8 +9,11 @@
 <br>
 #### Published papers:
 1、Li H, Fang J, Jia Y, et al. Thangka Sketch Colorization Based on Multi-Level Adaptive-Instance-Normalized Color Fusion and Skip Connection Attention[J]. Electronics, 2023, 12(7): 1745.
-2、Li H, Wang NY, Fang J, Jia Y. Ji, L., Chen, X. Anime Sketch Coloring Based on Self-Attention Gate and Progressive PatchGAN(CI// The 6th Chinese Conference on Pattern Recognition and Computer Vision PRCV2023
+<br>
+2、Li H, Wang NY, Fang J, Jia Y. Ji, L., Chen, X. Anime Sketch Coloring Based on Self-Attention Gate and Progressive PatchGAN(CI// The 6th Chinese Conference on Pattern Recognition and Computer Vision PRCV2023.
+<br>
 3、Fang J, Li H, Jia Y, et al. Thangka mural style transfer based on progressive style-attentional network and multi-level loss function[J]. Journal of Electronic Imaging, 2023, 32(4): 043007-043007.
+<br>
 4、Y. Jia, H. Li, J. Fang, X. Chen, L. Ji, N. Wang. Image Inpainting of Thangka Murals Using Edge-Assisted Feature Fusion and Self Attention Based Local Refine Network[J]. IEEE Access, 2023, 11: 84360-84370.
 
 
